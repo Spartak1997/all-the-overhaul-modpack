@@ -20,3 +20,6 @@ require("prototypes/bio-industries")
 if mods["RampantArsenal"] then
     require("prototypes/rampant-arsenal")
 end
+require("prototypes.entities.transport-belts.space-exp-splitter")
+require("prototypes.entities.transport-belts.space-exp-transport-belt")
+require("prototypes.entities.transport-belts.space-exp-underground-belt")
