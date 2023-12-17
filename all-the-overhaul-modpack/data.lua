@@ -18,8 +18,8 @@ require("prototypes/imersium-wall")
 require("prototypes/common")
 require("prototypes/pipes")
 require("prototypes/bio-industries")
-require("prototypes/bi-dir-inserter/data")
 if mods["RampantArsenal"] then
     require("prototypes/rampant-arsenal")
-  
-require("prototypes.items")
+end
+require("prototypes/items")
+require("prototypes/entities/machines")
